@@ -1,0 +1,1 @@
+Data for Diesel Fuel Price Index was uploaded directly into Tableau using Web Data Connector (WDC) provided by EIA (https://wdc.portals.interworks.com/eia_20/)
