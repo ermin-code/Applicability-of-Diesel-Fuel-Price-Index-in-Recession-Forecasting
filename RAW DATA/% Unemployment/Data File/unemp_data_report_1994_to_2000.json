@@ -1,0 +1,1946 @@
+{
+      "status": "REQUEST_SUCCEEDED",
+      "responseTime": 197,
+      "message": [],
+      "Results": {
+            "series": [
+                  {
+                        "seriesID": "LNS14000000",
+                        "data": [
+                              {
+                                    "year": "2000",
+                                    "period": "M12",
+                                    "periodName": "December",
+                                    "value": "3.9",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "0.0",
+                                                "6": "-0.1",
+                                                "12": "-0.1"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "0.0",
+                                                "6": "-2.5",
+                                                "12": "-2.5"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "2000",
+                                    "period": "M11",
+                                    "periodName": "November",
+                                    "value": "3.9",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "-0.2",
+                                                "6": "-0.1",
+                                                "12": "-0.2"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "-4.9",
+                                                "6": "-2.5",
+                                                "12": "-4.9"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "2000",
+                                    "period": "M10",
+                                    "periodName": "October",
+                                    "value": "3.9",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "-0.1",
+                                                "6": "0.1",
+                                                "12": "-0.2"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "-2.5",
+                                                "6": "2.6",
+                                                "12": "-4.9"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "2000",
+                                    "period": "M09",
+                                    "periodName": "September",
+                                    "value": "3.9",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.2",
+                                                "3": "-0.1",
+                                                "6": "-0.1",
+                                                "12": "-0.3"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-4.9",
+                                                "3": "-2.5",
+                                                "6": "-2.5",
+                                                "12": "-7.1"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "2000",
+                                    "period": "M08",
+                                    "periodName": "August",
+                                    "value": "4.1",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.1",
+                                                "3": "0.1",
+                                                "6": "0.0",
+                                                "12": "-0.1"
+                                          },
+                                          "pct_changes": {
+                                                "1": "2.5",
+                                                "3": "2.5",
+                                                "6": "0.0",
+                                                "12": "-2.4"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "2000",
+                                    "period": "M07",
+                                    "periodName": "July",
+                                    "value": "4.0",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "0.2",
+                                                "6": "0.0",
+                                                "12": "-0.3"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "5.3",
+                                                "6": "0.0",
+                                                "12": "-7.0"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "2000",
+                                    "period": "M06",
+                                    "periodName": "June",
+                                    "value": "4.0",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "0.0",
+                                                "6": "0.0",
+                                                "12": "-0.3"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "0.0",
+                                                "6": "0.0",
+                                                "12": "-7.0"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "2000",
+                                    "period": "M05",
+                                    "periodName": "May",
+                                    "value": "4.0",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.2",
+                                                "3": "-0.1",
+                                                "6": "-0.1",
+                                                "12": "-0.2"
+                                          },
+                                          "pct_changes": {
+                                                "1": "5.3",
+                                                "3": "-2.4",
+                                                "6": "-2.4",
+                                                "12": "-4.8"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "2000",
+                                    "period": "M04",
+                                    "periodName": "April",
+                                    "value": "3.8",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.2",
+                                                "3": "-0.2",
+                                                "6": "-0.3",
+                                                "12": "-0.5"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-5.0",
+                                                "3": "-5.0",
+                                                "6": "-7.3",
+                                                "12": "-11.6"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "2000",
+                                    "period": "M03",
+                                    "periodName": "March",
+                                    "value": "4.0",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "0.0",
+                                                "6": "-0.2",
+                                                "12": "-0.2"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-2.4",
+                                                "3": "0.0",
+                                                "6": "-4.8",
+                                                "12": "-4.8"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "2000",
+                                    "period": "M02",
+                                    "periodName": "February",
+                                    "value": "4.1",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.1",
+                                                "3": "0.0",
+                                                "6": "-0.1",
+                                                "12": "-0.3"
+                                          },
+                                          "pct_changes": {
+                                                "1": "2.5",
+                                                "3": "0.0",
+                                                "6": "-2.4",
+                                                "12": "-6.8"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "2000",
+                                    "period": "M01",
+                                    "periodName": "January",
+                                    "value": "4.0",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "-0.1",
+                                                "6": "-0.3",
+                                                "12": "-0.3"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "-2.4",
+                                                "6": "-7.0",
+                                                "12": "-7.0"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1999",
+                                    "period": "M12",
+                                    "periodName": "December",
+                                    "value": "4.0",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "-0.2",
+                                                "6": "-0.3",
+                                                "12": "-0.4"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-2.4",
+                                                "3": "-4.8",
+                                                "6": "-7.0",
+                                                "12": "-9.1"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1999",
+                                    "period": "M11",
+                                    "periodName": "November",
+                                    "value": "4.1",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "-0.1",
+                                                "6": "-0.1",
+                                                "12": "-0.3"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "-2.4",
+                                                "6": "-2.4",
+                                                "12": "-6.8"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1999",
+                                    "period": "M10",
+                                    "periodName": "October",
+                                    "value": "4.1",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "-0.2",
+                                                "6": "-0.2",
+                                                "12": "-0.4"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-2.4",
+                                                "3": "-4.7",
+                                                "6": "-4.7",
+                                                "12": "-8.9"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1999",
+                                    "period": "M09",
+                                    "periodName": "September",
+                                    "value": "4.2",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "-0.1",
+                                                "6": "0.0",
+                                                "12": "-0.4"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "-2.3",
+                                                "6": "0.0",
+                                                "12": "-8.7"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1999",
+                                    "period": "M08",
+                                    "periodName": "August",
+                                    "value": "4.2",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "0.0",
+                                                "6": "-0.2",
+                                                "12": "-0.3"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-2.3",
+                                                "3": "0.0",
+                                                "6": "-4.5",
+                                                "12": "-6.7"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1999",
+                                    "period": "M07",
+                                    "periodName": "July",
+                                    "value": "4.3",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "0.0",
+                                                "6": "0.0",
+                                                "12": "-0.2"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "0.0",
+                                                "6": "0.0",
+                                                "12": "-4.4"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1999",
+                                    "period": "M06",
+                                    "periodName": "June",
+                                    "value": "4.3",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.1",
+                                                "3": "0.1",
+                                                "6": "-0.1",
+                                                "12": "-0.2"
+                                          },
+                                          "pct_changes": {
+                                                "1": "2.4",
+                                                "3": "2.4",
+                                                "6": "-2.3",
+                                                "12": "-4.4"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1999",
+                                    "period": "M05",
+                                    "periodName": "May",
+                                    "value": "4.2",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "-0.2",
+                                                "6": "-0.2",
+                                                "12": "-0.2"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-2.3",
+                                                "3": "-4.5",
+                                                "6": "-4.5",
+                                                "12": "-4.5"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1999",
+                                    "period": "M04",
+                                    "periodName": "April",
+                                    "value": "4.3",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.1",
+                                                "3": "0.0",
+                                                "6": "-0.2",
+                                                "12": "0.0"
+                                          },
+                                          "pct_changes": {
+                                                "1": "2.4",
+                                                "3": "0.0",
+                                                "6": "-4.4",
+                                                "12": "0.0"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1999",
+                                    "period": "M03",
+                                    "periodName": "March",
+                                    "value": "4.2",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.2",
+                                                "3": "-0.2",
+                                                "6": "-0.4",
+                                                "12": "-0.5"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-4.5",
+                                                "3": "-4.5",
+                                                "6": "-8.7",
+                                                "12": "-10.6"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1999",
+                                    "period": "M02",
+                                    "periodName": "February",
+                                    "value": "4.4",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.1",
+                                                "3": "0.0",
+                                                "6": "-0.1",
+                                                "12": "-0.2"
+                                          },
+                                          "pct_changes": {
+                                                "1": "2.3",
+                                                "3": "0.0",
+                                                "6": "-2.2",
+                                                "12": "-4.3"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1999",
+                                    "period": "M01",
+                                    "periodName": "January",
+                                    "value": "4.3",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "-0.2",
+                                                "6": "-0.2",
+                                                "12": "-0.3"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-2.3",
+                                                "3": "-4.4",
+                                                "6": "-4.4",
+                                                "12": "-6.5"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1998",
+                                    "period": "M12",
+                                    "periodName": "December",
+                                    "value": "4.4",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "-0.2",
+                                                "6": "-0.1",
+                                                "12": "-0.3"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "-4.3",
+                                                "6": "-2.2",
+                                                "12": "-6.4"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1998",
+                                    "period": "M11",
+                                    "periodName": "November",
+                                    "value": "4.4",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "-0.1",
+                                                "6": "0.0",
+                                                "12": "-0.2"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-2.2",
+                                                "3": "-2.2",
+                                                "6": "0.0",
+                                                "12": "-4.3"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1998",
+                                    "period": "M10",
+                                    "periodName": "October",
+                                    "value": "4.5",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "0.0",
+                                                "6": "0.2",
+                                                "12": "-0.2"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-2.2",
+                                                "3": "0.0",
+                                                "6": "4.7",
+                                                "12": "-4.3"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1998",
+                                    "period": "M09",
+                                    "periodName": "September",
+                                    "value": "4.6",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.1",
+                                                "3": "0.1",
+                                                "6": "-0.1",
+                                                "12": "-0.3"
+                                          },
+                                          "pct_changes": {
+                                                "1": "2.2",
+                                                "3": "2.2",
+                                                "6": "-2.1",
+                                                "12": "-6.1"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1998",
+                                    "period": "M08",
+                                    "periodName": "August",
+                                    "value": "4.5",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "0.1",
+                                                "6": "-0.1",
+                                                "12": "-0.3"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "2.3",
+                                                "6": "-2.2",
+                                                "12": "-6.3"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1998",
+                                    "period": "M07",
+                                    "periodName": "July",
+                                    "value": "4.5",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "0.2",
+                                                "6": "-0.1",
+                                                "12": "-0.4"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "4.7",
+                                                "6": "-2.2",
+                                                "12": "-8.2"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1998",
+                                    "period": "M06",
+                                    "periodName": "June",
+                                    "value": "4.5",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.1",
+                                                "3": "-0.2",
+                                                "6": "-0.2",
+                                                "12": "-0.5"
+                                          },
+                                          "pct_changes": {
+                                                "1": "2.3",
+                                                "3": "-4.3",
+                                                "6": "-4.3",
+                                                "12": "-10.0"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1998",
+                                    "period": "M05",
+                                    "periodName": "May",
+                                    "value": "4.4",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.1",
+                                                "3": "-0.2",
+                                                "6": "-0.2",
+                                                "12": "-0.5"
+                                          },
+                                          "pct_changes": {
+                                                "1": "2.3",
+                                                "3": "-4.3",
+                                                "6": "-4.3",
+                                                "12": "-10.2"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1998",
+                                    "period": "M04",
+                                    "periodName": "April",
+                                    "value": "4.3",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.4",
+                                                "3": "-0.3",
+                                                "6": "-0.4",
+                                                "12": "-0.8"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-8.5",
+                                                "3": "-6.5",
+                                                "6": "-8.5",
+                                                "12": "-15.7"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1998",
+                                    "period": "M03",
+                                    "periodName": "March",
+                                    "value": "4.7",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.1",
+                                                "3": "0.0",
+                                                "6": "-0.2",
+                                                "12": "-0.5"
+                                          },
+                                          "pct_changes": {
+                                                "1": "2.2",
+                                                "3": "0.0",
+                                                "6": "-4.1",
+                                                "12": "-9.6"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1998",
+                                    "period": "M02",
+                                    "periodName": "February",
+                                    "value": "4.6",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "0.0",
+                                                "6": "-0.2",
+                                                "12": "-0.6"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "0.0",
+                                                "6": "-4.2",
+                                                "12": "-11.5"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1998",
+                                    "period": "M01",
+                                    "periodName": "January",
+                                    "value": "4.6",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "-0.1",
+                                                "6": "-0.3",
+                                                "12": "-0.7"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-2.1",
+                                                "3": "-2.1",
+                                                "6": "-6.1",
+                                                "12": "-13.2"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1997",
+                                    "period": "M12",
+                                    "periodName": "December",
+                                    "value": "4.7",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.1",
+                                                "3": "-0.2",
+                                                "6": "-0.3",
+                                                "12": "-0.7"
+                                          },
+                                          "pct_changes": {
+                                                "1": "2.2",
+                                                "3": "-4.1",
+                                                "6": "-6.0",
+                                                "12": "-13.0"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1997",
+                                    "period": "M11",
+                                    "periodName": "November",
+                                    "value": "4.6",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "-0.2",
+                                                "6": "-0.3",
+                                                "12": "-0.8"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-2.1",
+                                                "3": "-4.2",
+                                                "6": "-6.1",
+                                                "12": "-14.8"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1997",
+                                    "period": "M10",
+                                    "periodName": "October",
+                                    "value": "4.7",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.2",
+                                                "3": "-0.2",
+                                                "6": "-0.4",
+                                                "12": "-0.5"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-4.1",
+                                                "3": "-4.1",
+                                                "6": "-7.8",
+                                                "12": "-9.6"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1997",
+                                    "period": "M09",
+                                    "periodName": "September",
+                                    "value": "4.9",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.1",
+                                                "3": "-0.1",
+                                                "6": "-0.3",
+                                                "12": "-0.3"
+                                          },
+                                          "pct_changes": {
+                                                "1": "2.1",
+                                                "3": "-2.0",
+                                                "6": "-5.8",
+                                                "12": "-5.8"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1997",
+                                    "period": "M08",
+                                    "periodName": "August",
+                                    "value": "4.8",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "-0.1",
+                                                "6": "-0.4",
+                                                "12": "-0.3"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-2.0",
+                                                "3": "-2.0",
+                                                "6": "-7.7",
+                                                "12": "-5.9"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1997",
+                                    "period": "M07",
+                                    "periodName": "July",
+                                    "value": "4.9",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "-0.2",
+                                                "6": "-0.4",
+                                                "12": "-0.6"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-2.0",
+                                                "3": "-3.9",
+                                                "6": "-7.5",
+                                                "12": "-10.9"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1997",
+                                    "period": "M06",
+                                    "periodName": "June",
+                                    "value": "5.0",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.1",
+                                                "3": "-0.2",
+                                                "6": "-0.4",
+                                                "12": "-0.3"
+                                          },
+                                          "pct_changes": {
+                                                "1": "2.0",
+                                                "3": "-3.8",
+                                                "6": "-7.4",
+                                                "12": "-5.7"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1997",
+                                    "period": "M05",
+                                    "periodName": "May",
+                                    "value": "4.9",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.2",
+                                                "3": "-0.3",
+                                                "6": "-0.5",
+                                                "12": "-0.7"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-3.9",
+                                                "3": "-5.8",
+                                                "6": "-9.3",
+                                                "12": "-12.5"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1997",
+                                    "period": "M04",
+                                    "periodName": "April",
+                                    "value": "5.1",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "-0.2",
+                                                "6": "-0.1",
+                                                "12": "-0.5"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-1.9",
+                                                "3": "-3.8",
+                                                "6": "-1.9",
+                                                "12": "-8.9"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1997",
+                                    "period": "M03",
+                                    "periodName": "March",
+                                    "value": "5.2",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "-0.2",
+                                                "6": "0.0",
+                                                "12": "-0.3"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "-3.7",
+                                                "6": "0.0",
+                                                "12": "-5.5"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1997",
+                                    "period": "M02",
+                                    "periodName": "February",
+                                    "value": "5.2",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "-0.2",
+                                                "6": "0.1",
+                                                "12": "-0.3"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-1.9",
+                                                "3": "-3.7",
+                                                "6": "2.0",
+                                                "12": "-5.5"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1997",
+                                    "period": "M01",
+                                    "periodName": "January",
+                                    "value": "5.3",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "0.1",
+                                                "6": "-0.2",
+                                                "12": "-0.3"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-1.9",
+                                                "3": "1.9",
+                                                "6": "-3.6",
+                                                "12": "-5.4"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1996",
+                                    "period": "M12",
+                                    "periodName": "December",
+                                    "value": "5.4",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "0.2",
+                                                "6": "0.1",
+                                                "12": "-0.2"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "3.8",
+                                                "6": "1.9",
+                                                "12": "-3.6"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1996",
+                                    "period": "M11",
+                                    "periodName": "November",
+                                    "value": "5.4",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.2",
+                                                "3": "0.3",
+                                                "6": "-0.2",
+                                                "12": "-0.2"
+                                          },
+                                          "pct_changes": {
+                                                "1": "3.8",
+                                                "3": "5.9",
+                                                "6": "-3.6",
+                                                "12": "-3.6"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1996",
+                                    "period": "M10",
+                                    "periodName": "October",
+                                    "value": "5.2",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "-0.3",
+                                                "6": "-0.4",
+                                                "12": "-0.3"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "-5.5",
+                                                "6": "-7.1",
+                                                "12": "-5.5"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1996",
+                                    "period": "M09",
+                                    "periodName": "September",
+                                    "value": "5.2",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.1",
+                                                "3": "-0.1",
+                                                "6": "-0.3",
+                                                "12": "-0.4"
+                                          },
+                                          "pct_changes": {
+                                                "1": "2.0",
+                                                "3": "-1.9",
+                                                "6": "-5.5",
+                                                "12": "-7.1"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1996",
+                                    "period": "M08",
+                                    "periodName": "August",
+                                    "value": "5.1",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.4",
+                                                "3": "-0.5",
+                                                "6": "-0.4",
+                                                "12": "-0.6"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-7.3",
+                                                "3": "-8.9",
+                                                "6": "-7.3",
+                                                "12": "-10.5"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1996",
+                                    "period": "M07",
+                                    "periodName": "July",
+                                    "value": "5.5",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.2",
+                                                "3": "-0.1",
+                                                "6": "-0.1",
+                                                "12": "-0.2"
+                                          },
+                                          "pct_changes": {
+                                                "1": "3.8",
+                                                "3": "-1.8",
+                                                "6": "-1.8",
+                                                "12": "-3.5"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1996",
+                                    "period": "M06",
+                                    "periodName": "June",
+                                    "value": "5.3",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.3",
+                                                "3": "-0.2",
+                                                "6": "-0.3",
+                                                "12": "-0.3"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-5.4",
+                                                "3": "-3.6",
+                                                "6": "-5.4",
+                                                "12": "-5.4"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1996",
+                                    "period": "M05",
+                                    "periodName": "May",
+                                    "value": "5.6",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "0.1",
+                                                "6": "0.0",
+                                                "12": "0.0"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "1.8",
+                                                "6": "0.0",
+                                                "12": "0.0"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1996",
+                                    "period": "M04",
+                                    "periodName": "April",
+                                    "value": "5.6",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.1",
+                                                "3": "0.0",
+                                                "6": "0.1",
+                                                "12": "-0.2"
+                                          },
+                                          "pct_changes": {
+                                                "1": "1.8",
+                                                "3": "0.0",
+                                                "6": "1.8",
+                                                "12": "-3.4"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1996",
+                                    "period": "M03",
+                                    "periodName": "March",
+                                    "value": "5.5",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "-0.1",
+                                                "6": "-0.1",
+                                                "12": "0.1"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "-1.8",
+                                                "6": "-1.8",
+                                                "12": "1.9"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1996",
+                                    "period": "M02",
+                                    "periodName": "February",
+                                    "value": "5.5",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "-0.1",
+                                                "6": "-0.2",
+                                                "12": "0.1"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-1.8",
+                                                "3": "-1.8",
+                                                "6": "-3.5",
+                                                "12": "1.9"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1996",
+                                    "period": "M01",
+                                    "periodName": "January",
+                                    "value": "5.6",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "0.1",
+                                                "6": "-0.1",
+                                                "12": "0.0"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "1.8",
+                                                "6": "-1.8",
+                                                "12": "0.0"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1995",
+                                    "period": "M12",
+                                    "periodName": "December",
+                                    "value": "5.6",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "0.0",
+                                                "6": "0.0",
+                                                "12": "0.1"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "0.0",
+                                                "6": "0.0",
+                                                "12": "1.8"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1995",
+                                    "period": "M11",
+                                    "periodName": "November",
+                                    "value": "5.6",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.1",
+                                                "3": "-0.1",
+                                                "6": "0.0",
+                                                "12": "0.0"
+                                          },
+                                          "pct_changes": {
+                                                "1": "1.8",
+                                                "3": "-1.8",
+                                                "6": "0.0",
+                                                "12": "0.0"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1995",
+                                    "period": "M10",
+                                    "periodName": "October",
+                                    "value": "5.5",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "-0.2",
+                                                "6": "-0.3",
+                                                "12": "-0.3"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-1.8",
+                                                "3": "-3.5",
+                                                "6": "-5.2",
+                                                "12": "-5.2"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1995",
+                                    "period": "M09",
+                                    "periodName": "September",
+                                    "value": "5.6",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "0.0",
+                                                "6": "0.2",
+                                                "12": "-0.3"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-1.8",
+                                                "3": "0.0",
+                                                "6": "3.7",
+                                                "12": "-5.1"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1995",
+                                    "period": "M08",
+                                    "periodName": "August",
+                                    "value": "5.7",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "0.1",
+                                                "6": "0.3",
+                                                "12": "-0.3"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "1.8",
+                                                "6": "5.6",
+                                                "12": "-5.0"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1995",
+                                    "period": "M07",
+                                    "periodName": "July",
+                                    "value": "5.7",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.1",
+                                                "3": "-0.1",
+                                                "6": "0.1",
+                                                "12": "-0.4"
+                                          },
+                                          "pct_changes": {
+                                                "1": "1.8",
+                                                "3": "-1.7",
+                                                "6": "1.8",
+                                                "12": "-6.6"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1995",
+                                    "period": "M06",
+                                    "periodName": "June",
+                                    "value": "5.6",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "0.2",
+                                                "6": "0.1",
+                                                "12": "-0.5"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "3.7",
+                                                "6": "1.8",
+                                                "12": "-8.2"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1995",
+                                    "period": "M05",
+                                    "periodName": "May",
+                                    "value": "5.6",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.2",
+                                                "3": "0.2",
+                                                "6": "0.0",
+                                                "12": "-0.5"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-3.4",
+                                                "3": "3.7",
+                                                "6": "0.0",
+                                                "12": "-8.2"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1995",
+                                    "period": "M04",
+                                    "periodName": "April",
+                                    "value": "5.8",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.4",
+                                                "3": "0.2",
+                                                "6": "0.0",
+                                                "12": "-0.6"
+                                          },
+                                          "pct_changes": {
+                                                "1": "7.4",
+                                                "3": "3.6",
+                                                "6": "0.0",
+                                                "12": "-9.4"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1995",
+                                    "period": "M03",
+                                    "periodName": "March",
+                                    "value": "5.4",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "-0.1",
+                                                "6": "-0.5",
+                                                "12": "-1.1"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "-1.8",
+                                                "6": "-8.5",
+                                                "12": "-16.9"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1995",
+                                    "period": "M02",
+                                    "periodName": "February",
+                                    "value": "5.4",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.2",
+                                                "3": "-0.2",
+                                                "6": "-0.6",
+                                                "12": "-1.2"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-3.6",
+                                                "3": "-3.6",
+                                                "6": "-10.0",
+                                                "12": "-18.2"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1995",
+                                    "period": "M01",
+                                    "periodName": "January",
+                                    "value": "5.6",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.1",
+                                                "3": "-0.2",
+                                                "6": "-0.5",
+                                                "12": "-1.0"
+                                          },
+                                          "pct_changes": {
+                                                "1": "1.8",
+                                                "3": "-3.4",
+                                                "6": "-8.2",
+                                                "12": "-15.2"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1994",
+                                    "period": "M12",
+                                    "periodName": "December",
+                                    "value": "5.5",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "-0.4",
+                                                "6": "-0.6",
+                                                "12": "-1.0"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-1.8",
+                                                "3": "-6.8",
+                                                "6": "-9.8",
+                                                "12": "-15.4"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1994",
+                                    "period": "M11",
+                                    "periodName": "November",
+                                    "value": "5.6",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.2",
+                                                "3": "-0.4",
+                                                "6": "-0.5",
+                                                "12": "-1.0"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-3.4",
+                                                "3": "-6.7",
+                                                "6": "-8.2",
+                                                "12": "-15.2"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1994",
+                                    "period": "M10",
+                                    "periodName": "October",
+                                    "value": "5.8",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "-0.3",
+                                                "6": "-0.6",
+                                                "12": "-1.0"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-1.7",
+                                                "3": "-4.9",
+                                                "6": "-9.4",
+                                                "12": "-14.7"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1994",
+                                    "period": "M09",
+                                    "periodName": "September",
+                                    "value": "5.9",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "-0.2",
+                                                "6": "-0.6",
+                                                "12": "-0.8"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-1.7",
+                                                "3": "-3.3",
+                                                "6": "-9.2",
+                                                "12": "-11.9"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1994",
+                                    "period": "M08",
+                                    "periodName": "August",
+                                    "value": "6.0",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "-0.1",
+                                                "6": "-0.6",
+                                                "12": "-0.8"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-1.6",
+                                                "3": "-1.6",
+                                                "6": "-9.1",
+                                                "12": "-11.8"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1994",
+                                    "period": "M07",
+                                    "periodName": "July",
+                                    "value": "6.1",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "-0.3",
+                                                "6": "-0.5",
+                                                "12": "-0.8"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "-4.7",
+                                                "6": "-7.6",
+                                                "12": "-11.6"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1994",
+                                    "period": "M06",
+                                    "periodName": "June",
+                                    "value": "6.1",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "-0.4",
+                                                "6": "-0.4",
+                                                "12": "-0.9"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "-6.2",
+                                                "6": "-6.2",
+                                                "12": "-12.9"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1994",
+                                    "period": "M05",
+                                    "periodName": "May",
+                                    "value": "6.1",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.3",
+                                                "3": "-0.5",
+                                                "6": "-0.5",
+                                                "12": "-1.0"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-4.7",
+                                                "3": "-7.6",
+                                                "6": "-7.6",
+                                                "12": "-14.1"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1994",
+                                    "period": "M04",
+                                    "periodName": "April",
+                                    "value": "6.4",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "-0.2",
+                                                "6": "-0.4",
+                                                "12": "-0.7"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-1.5",
+                                                "3": "-3.0",
+                                                "6": "-5.9",
+                                                "12": "-9.9"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1994",
+                                    "period": "M03",
+                                    "periodName": "March",
+                                    "value": "6.5",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "-0.1",
+                                                "3": "0.0",
+                                                "6": "-0.2",
+                                                "12": "-0.5"
+                                          },
+                                          "pct_changes": {
+                                                "1": "-1.5",
+                                                "3": "0.0",
+                                                "6": "-3.0",
+                                                "12": "-7.1"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1994",
+                                    "period": "M02",
+                                    "periodName": "February",
+                                    "value": "6.6",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.0",
+                                                "3": "0.0",
+                                                "6": "-0.2",
+                                                "12": "-0.5"
+                                          },
+                                          "pct_changes": {
+                                                "1": "0.0",
+                                                "3": "0.0",
+                                                "6": "-2.9",
+                                                "12": "-7.0"
+                                          }
+                                    }
+                              },
+                              {
+                                    "year": "1994",
+                                    "period": "M01",
+                                    "periodName": "January",
+                                    "value": "6.6",
+                                    "footnotes": [
+                                          {}
+                                    ],
+                                    "calculations": {
+                                          "net_changes": {
+                                                "1": "0.1",
+                                                "3": "-0.2",
+                                                "6": "-0.3",
+                                                "12": "-0.7"
+                                          },
+                                          "pct_changes": {
+                                                "1": "1.5",
+                                                "3": "-2.9",
+                                                "6": "-4.3",
+                                                "12": "-9.6"
+                                          }
+                                    }
+                              }
+                        ]
+                  }
+            ]
+      }
+}
