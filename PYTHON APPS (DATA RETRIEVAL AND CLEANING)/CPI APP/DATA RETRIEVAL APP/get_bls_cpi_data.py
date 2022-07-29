@@ -16,6 +16,6 @@ parameters3 = json.dumps({"registrationkey":"64ea89c953c14b98a90b9beca800748a", 
 # Call the bls data api class with the parameters and the name of the data output file.
 c_bls_data_api(parameters1, './RAW DATA/Consumer Price Index (CPI)/Data File/cpi_data_report_1994_to_2000.json')
 c_bls_data_api(parameters2, './RAW DATA/Consumer Price Index (CPI)/Data File/cpi_data_report_2001_to_2010.json')
-c_bls_data_api(parameters2, './RAW DATA/Consumer Price Index (CPI)/Data File/cpi_data_report_2011_to_2022.json')
+c_bls_data_api(parameters3, './RAW DATA/Consumer Price Index (CPI)/Data File/cpi_data_report_2011_to_2022.json')
 
 print("Program completed...")

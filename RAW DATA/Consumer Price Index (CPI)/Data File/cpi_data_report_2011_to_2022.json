@@ -1,6 +1,6 @@
 {
       "status": "REQUEST_SUCCEEDED",
-      "responseTime": 213,
+      "responseTime": 255,
       "message": [],
       "Results": {
             "series": [
@@ -8,1081 +8,1244 @@
                         "seriesID": "CUUR0000SA0",
                         "data": [
                               {
-                                    "year": "2010",
-                                    "period": "M12",
-                                    "periodName": "December",
-                                    "value": "219.179",
-                                    "footnotes": [
-                                          {}
-                                    ]
-                              },
-                              {
-                                    "year": "2010",
-                                    "period": "M11",
-                                    "periodName": "November",
-                                    "value": "218.803",
-                                    "footnotes": [
-                                          {}
-                                    ]
-                              },
-                              {
-                                    "year": "2010",
-                                    "period": "M10",
-                                    "periodName": "October",
-                                    "value": "218.711",
-                                    "footnotes": [
-                                          {}
-                                    ]
-                              },
-                              {
-                                    "year": "2010",
-                                    "period": "M09",
-                                    "periodName": "September",
-                                    "value": "218.439",
-                                    "footnotes": [
-                                          {}
-                                    ]
-                              },
-                              {
-                                    "year": "2010",
-                                    "period": "M08",
-                                    "periodName": "August",
-                                    "value": "218.312",
-                                    "footnotes": [
-                                          {}
-                                    ]
-                              },
-                              {
-                                    "year": "2010",
-                                    "period": "M07",
-                                    "periodName": "July",
-                                    "value": "218.011",
-                                    "footnotes": [
-                                          {}
-                                    ]
-                              },
-                              {
-                                    "year": "2010",
+                                    "year": "2022",
                                     "period": "M06",
                                     "periodName": "June",
-                                    "value": "217.965",
+                                    "latest": "true",
+                                    "value": "296.311",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2010",
+                                    "year": "2022",
                                     "period": "M05",
                                     "periodName": "May",
-                                    "value": "218.178",
+                                    "value": "292.296",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2010",
+                                    "year": "2022",
                                     "period": "M04",
                                     "periodName": "April",
-                                    "value": "218.009",
+                                    "value": "289.109",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2010",
+                                    "year": "2022",
                                     "period": "M03",
                                     "periodName": "March",
-                                    "value": "217.631",
+                                    "value": "287.504",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2010",
+                                    "year": "2022",
                                     "period": "M02",
                                     "periodName": "February",
-                                    "value": "216.741",
+                                    "value": "283.716",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2010",
+                                    "year": "2022",
                                     "period": "M01",
                                     "periodName": "January",
-                                    "value": "216.687",
+                                    "value": "281.148",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2009",
+                                    "year": "2021",
                                     "period": "M12",
                                     "periodName": "December",
-                                    "value": "215.949",
+                                    "value": "278.802",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2009",
+                                    "year": "2021",
                                     "period": "M11",
                                     "periodName": "November",
-                                    "value": "216.330",
+                                    "value": "277.948",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2009",
+                                    "year": "2021",
                                     "period": "M10",
                                     "periodName": "October",
-                                    "value": "216.177",
+                                    "value": "276.589",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2009",
+                                    "year": "2021",
                                     "period": "M09",
                                     "periodName": "September",
-                                    "value": "215.969",
+                                    "value": "274.310",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2009",
+                                    "year": "2021",
                                     "period": "M08",
                                     "periodName": "August",
-                                    "value": "215.834",
+                                    "value": "273.567",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2009",
+                                    "year": "2021",
                                     "period": "M07",
                                     "periodName": "July",
-                                    "value": "215.351",
+                                    "value": "273.003",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2009",
+                                    "year": "2021",
                                     "period": "M06",
                                     "periodName": "June",
-                                    "value": "215.693",
+                                    "value": "271.696",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2009",
+                                    "year": "2021",
                                     "period": "M05",
                                     "periodName": "May",
-                                    "value": "213.856",
+                                    "value": "269.195",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2009",
+                                    "year": "2021",
                                     "period": "M04",
                                     "periodName": "April",
-                                    "value": "213.240",
+                                    "value": "267.054",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2009",
+                                    "year": "2021",
                                     "period": "M03",
                                     "periodName": "March",
-                                    "value": "212.709",
+                                    "value": "264.877",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2009",
+                                    "year": "2021",
                                     "period": "M02",
                                     "periodName": "February",
-                                    "value": "212.193",
+                                    "value": "263.014",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2009",
+                                    "year": "2021",
                                     "period": "M01",
                                     "periodName": "January",
-                                    "value": "211.143",
+                                    "value": "261.582",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2008",
+                                    "year": "2020",
                                     "period": "M12",
                                     "periodName": "December",
-                                    "value": "210.228",
+                                    "value": "260.474",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2008",
+                                    "year": "2020",
                                     "period": "M11",
                                     "periodName": "November",
-                                    "value": "212.425",
+                                    "value": "260.229",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2008",
+                                    "year": "2020",
                                     "period": "M10",
                                     "periodName": "October",
-                                    "value": "216.573",
+                                    "value": "260.388",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2008",
+                                    "year": "2020",
                                     "period": "M09",
                                     "periodName": "September",
-                                    "value": "218.783",
+                                    "value": "260.280",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2008",
+                                    "year": "2020",
                                     "period": "M08",
                                     "periodName": "August",
-                                    "value": "219.086",
+                                    "value": "259.918",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2008",
+                                    "year": "2020",
                                     "period": "M07",
                                     "periodName": "July",
-                                    "value": "219.964",
+                                    "value": "259.101",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2008",
+                                    "year": "2020",
                                     "period": "M06",
                                     "periodName": "June",
-                                    "value": "218.815",
+                                    "value": "257.797",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2008",
+                                    "year": "2020",
                                     "period": "M05",
                                     "periodName": "May",
-                                    "value": "216.632",
+                                    "value": "256.394",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2008",
+                                    "year": "2020",
                                     "period": "M04",
                                     "periodName": "April",
-                                    "value": "214.823",
+                                    "value": "256.389",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2008",
+                                    "year": "2020",
                                     "period": "M03",
                                     "periodName": "March",
-                                    "value": "213.528",
+                                    "value": "258.115",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2008",
+                                    "year": "2020",
                                     "period": "M02",
                                     "periodName": "February",
-                                    "value": "211.693",
+                                    "value": "258.678",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2008",
+                                    "year": "2020",
                                     "period": "M01",
                                     "periodName": "January",
-                                    "value": "211.080",
+                                    "value": "257.971",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2007",
+                                    "year": "2019",
                                     "period": "M12",
                                     "periodName": "December",
-                                    "value": "210.036",
+                                    "value": "256.974",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2007",
+                                    "year": "2019",
                                     "period": "M11",
                                     "periodName": "November",
-                                    "value": "210.177",
+                                    "value": "257.208",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2007",
+                                    "year": "2019",
                                     "period": "M10",
                                     "periodName": "October",
-                                    "value": "208.936",
+                                    "value": "257.346",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2007",
+                                    "year": "2019",
                                     "period": "M09",
                                     "periodName": "September",
-                                    "value": "208.490",
+                                    "value": "256.759",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2007",
+                                    "year": "2019",
                                     "period": "M08",
                                     "periodName": "August",
-                                    "value": "207.917",
+                                    "value": "256.558",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2007",
+                                    "year": "2019",
                                     "period": "M07",
                                     "periodName": "July",
-                                    "value": "208.299",
+                                    "value": "256.571",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2007",
+                                    "year": "2019",
                                     "period": "M06",
                                     "periodName": "June",
-                                    "value": "208.352",
+                                    "value": "256.143",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2007",
+                                    "year": "2019",
                                     "period": "M05",
                                     "periodName": "May",
-                                    "value": "207.949",
+                                    "value": "256.092",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2007",
+                                    "year": "2019",
                                     "period": "M04",
                                     "periodName": "April",
-                                    "value": "206.686",
+                                    "value": "255.548",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2007",
+                                    "year": "2019",
                                     "period": "M03",
                                     "periodName": "March",
-                                    "value": "205.352",
+                                    "value": "254.202",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2007",
+                                    "year": "2019",
                                     "period": "M02",
                                     "periodName": "February",
-                                    "value": "203.499",
+                                    "value": "252.776",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2007",
+                                    "year": "2019",
                                     "period": "M01",
                                     "periodName": "January",
-                                    "value": "202.416",
+                                    "value": "251.712",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2006",
+                                    "year": "2018",
                                     "period": "M12",
                                     "periodName": "December",
-                                    "value": "201.8",
+                                    "value": "251.233",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2006",
+                                    "year": "2018",
                                     "period": "M11",
                                     "periodName": "November",
-                                    "value": "201.5",
+                                    "value": "252.038",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2006",
+                                    "year": "2018",
                                     "period": "M10",
                                     "periodName": "October",
-                                    "value": "201.8",
+                                    "value": "252.885",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2006",
+                                    "year": "2018",
                                     "period": "M09",
                                     "periodName": "September",
-                                    "value": "202.9",
+                                    "value": "252.439",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2006",
+                                    "year": "2018",
                                     "period": "M08",
                                     "periodName": "August",
-                                    "value": "203.9",
+                                    "value": "252.146",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2006",
+                                    "year": "2018",
                                     "period": "M07",
                                     "periodName": "July",
-                                    "value": "203.5",
+                                    "value": "252.006",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2006",
+                                    "year": "2018",
                                     "period": "M06",
                                     "periodName": "June",
-                                    "value": "202.9",
+                                    "value": "251.989",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2006",
+                                    "year": "2018",
                                     "period": "M05",
                                     "periodName": "May",
-                                    "value": "202.5",
+                                    "value": "251.588",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2006",
+                                    "year": "2018",
                                     "period": "M04",
                                     "periodName": "April",
-                                    "value": "201.5",
+                                    "value": "250.546",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2006",
+                                    "year": "2018",
                                     "period": "M03",
                                     "periodName": "March",
-                                    "value": "199.8",
+                                    "value": "249.554",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2006",
+                                    "year": "2018",
                                     "period": "M02",
                                     "periodName": "February",
-                                    "value": "198.7",
+                                    "value": "248.991",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2006",
+                                    "year": "2018",
                                     "period": "M01",
                                     "periodName": "January",
-                                    "value": "198.3",
+                                    "value": "247.867",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2005",
+                                    "year": "2017",
                                     "period": "M12",
                                     "periodName": "December",
-                                    "value": "196.8",
+                                    "value": "246.524",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2005",
+                                    "year": "2017",
                                     "period": "M11",
                                     "periodName": "November",
-                                    "value": "197.6",
+                                    "value": "246.669",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2005",
+                                    "year": "2017",
                                     "period": "M10",
                                     "periodName": "October",
-                                    "value": "199.2",
+                                    "value": "246.663",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2005",
+                                    "year": "2017",
                                     "period": "M09",
                                     "periodName": "September",
-                                    "value": "198.8",
+                                    "value": "246.819",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2005",
+                                    "year": "2017",
                                     "period": "M08",
                                     "periodName": "August",
-                                    "value": "196.4",
+                                    "value": "245.519",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2005",
+                                    "year": "2017",
                                     "period": "M07",
                                     "periodName": "July",
-                                    "value": "195.4",
+                                    "value": "244.786",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2005",
+                                    "year": "2017",
                                     "period": "M06",
                                     "periodName": "June",
-                                    "value": "194.5",
+                                    "value": "244.955",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2005",
+                                    "year": "2017",
                                     "period": "M05",
                                     "periodName": "May",
-                                    "value": "194.4",
+                                    "value": "244.733",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2005",
+                                    "year": "2017",
                                     "period": "M04",
                                     "periodName": "April",
-                                    "value": "194.6",
+                                    "value": "244.524",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2005",
+                                    "year": "2017",
                                     "period": "M03",
                                     "periodName": "March",
-                                    "value": "193.3",
+                                    "value": "243.801",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2005",
+                                    "year": "2017",
                                     "period": "M02",
                                     "periodName": "February",
-                                    "value": "191.8",
+                                    "value": "243.603",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2005",
+                                    "year": "2017",
                                     "period": "M01",
                                     "periodName": "January",
-                                    "value": "190.7",
+                                    "value": "242.839",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2004",
+                                    "year": "2016",
                                     "period": "M12",
                                     "periodName": "December",
-                                    "value": "190.3",
+                                    "value": "241.432",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2004",
+                                    "year": "2016",
                                     "period": "M11",
                                     "periodName": "November",
-                                    "value": "191.0",
+                                    "value": "241.353",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2004",
+                                    "year": "2016",
                                     "period": "M10",
                                     "periodName": "October",
-                                    "value": "190.9",
+                                    "value": "241.729",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2004",
+                                    "year": "2016",
                                     "period": "M09",
                                     "periodName": "September",
-                                    "value": "189.9",
+                                    "value": "241.428",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2004",
+                                    "year": "2016",
                                     "period": "M08",
                                     "periodName": "August",
-                                    "value": "189.5",
+                                    "value": "240.849",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2004",
+                                    "year": "2016",
                                     "period": "M07",
                                     "periodName": "July",
-                                    "value": "189.4",
+                                    "value": "240.628",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2004",
+                                    "year": "2016",
                                     "period": "M06",
                                     "periodName": "June",
-                                    "value": "189.7",
+                                    "value": "241.018",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2004",
+                                    "year": "2016",
                                     "period": "M05",
                                     "periodName": "May",
-                                    "value": "189.1",
+                                    "value": "240.229",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2004",
+                                    "year": "2016",
                                     "period": "M04",
                                     "periodName": "April",
-                                    "value": "188.0",
+                                    "value": "239.261",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2004",
+                                    "year": "2016",
                                     "period": "M03",
                                     "periodName": "March",
-                                    "value": "187.4",
+                                    "value": "238.132",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2004",
+                                    "year": "2016",
                                     "period": "M02",
                                     "periodName": "February",
-                                    "value": "186.2",
+                                    "value": "237.111",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2004",
+                                    "year": "2016",
                                     "period": "M01",
                                     "periodName": "January",
-                                    "value": "185.2",
+                                    "value": "236.916",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2003",
+                                    "year": "2015",
                                     "period": "M12",
                                     "periodName": "December",
-                                    "value": "184.3",
+                                    "value": "236.525",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2003",
+                                    "year": "2015",
                                     "period": "M11",
                                     "periodName": "November",
-                                    "value": "184.5",
+                                    "value": "237.336",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2003",
+                                    "year": "2015",
                                     "period": "M10",
                                     "periodName": "October",
-                                    "value": "185.0",
+                                    "value": "237.838",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2003",
+                                    "year": "2015",
                                     "period": "M09",
                                     "periodName": "September",
-                                    "value": "185.2",
+                                    "value": "237.945",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2003",
+                                    "year": "2015",
                                     "period": "M08",
                                     "periodName": "August",
-                                    "value": "184.6",
+                                    "value": "238.316",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2003",
+                                    "year": "2015",
                                     "period": "M07",
                                     "periodName": "July",
-                                    "value": "183.9",
+                                    "value": "238.654",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2003",
+                                    "year": "2015",
                                     "period": "M06",
                                     "periodName": "June",
-                                    "value": "183.7",
+                                    "value": "238.638",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2003",
+                                    "year": "2015",
                                     "period": "M05",
                                     "periodName": "May",
-                                    "value": "183.5",
+                                    "value": "237.805",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2003",
+                                    "year": "2015",
                                     "period": "M04",
                                     "periodName": "April",
-                                    "value": "183.8",
+                                    "value": "236.599",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2003",
+                                    "year": "2015",
                                     "period": "M03",
                                     "periodName": "March",
-                                    "value": "184.2",
+                                    "value": "236.119",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2003",
+                                    "year": "2015",
                                     "period": "M02",
                                     "periodName": "February",
-                                    "value": "183.1",
+                                    "value": "234.722",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2003",
+                                    "year": "2015",
                                     "period": "M01",
                                     "periodName": "January",
-                                    "value": "181.7",
+                                    "value": "233.707",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2002",
+                                    "year": "2014",
                                     "period": "M12",
                                     "periodName": "December",
-                                    "value": "180.9",
+                                    "value": "234.812",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2002",
+                                    "year": "2014",
                                     "period": "M11",
                                     "periodName": "November",
-                                    "value": "181.3",
+                                    "value": "236.151",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2002",
+                                    "year": "2014",
                                     "period": "M10",
                                     "periodName": "October",
-                                    "value": "181.3",
+                                    "value": "237.433",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2002",
+                                    "year": "2014",
                                     "period": "M09",
                                     "periodName": "September",
-                                    "value": "181.0",
+                                    "value": "238.031",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2002",
+                                    "year": "2014",
                                     "period": "M08",
                                     "periodName": "August",
-                                    "value": "180.7",
+                                    "value": "237.852",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2002",
+                                    "year": "2014",
                                     "period": "M07",
                                     "periodName": "July",
-                                    "value": "180.1",
+                                    "value": "238.250",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2002",
+                                    "year": "2014",
                                     "period": "M06",
                                     "periodName": "June",
-                                    "value": "179.9",
+                                    "value": "238.343",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2002",
+                                    "year": "2014",
                                     "period": "M05",
                                     "periodName": "May",
-                                    "value": "179.8",
+                                    "value": "237.900",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2002",
+                                    "year": "2014",
                                     "period": "M04",
                                     "periodName": "April",
-                                    "value": "179.8",
+                                    "value": "237.072",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2002",
+                                    "year": "2014",
                                     "period": "M03",
                                     "periodName": "March",
-                                    "value": "178.8",
+                                    "value": "236.293",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2002",
+                                    "year": "2014",
                                     "period": "M02",
                                     "periodName": "February",
-                                    "value": "177.8",
+                                    "value": "234.781",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2002",
+                                    "year": "2014",
                                     "period": "M01",
                                     "periodName": "January",
-                                    "value": "177.1",
+                                    "value": "233.916",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2001",
+                                    "year": "2013",
                                     "period": "M12",
                                     "periodName": "December",
-                                    "value": "176.7",
+                                    "value": "233.049",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2001",
+                                    "year": "2013",
                                     "period": "M11",
                                     "periodName": "November",
-                                    "value": "177.4",
+                                    "value": "233.069",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2001",
+                                    "year": "2013",
                                     "period": "M10",
                                     "periodName": "October",
-                                    "value": "177.7",
+                                    "value": "233.546",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2001",
+                                    "year": "2013",
                                     "period": "M09",
                                     "periodName": "September",
-                                    "value": "178.3",
+                                    "value": "234.149",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2001",
+                                    "year": "2013",
                                     "period": "M08",
                                     "periodName": "August",
-                                    "value": "177.5",
+                                    "value": "233.877",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2001",
+                                    "year": "2013",
                                     "period": "M07",
                                     "periodName": "July",
-                                    "value": "177.5",
+                                    "value": "233.596",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2001",
+                                    "year": "2013",
                                     "period": "M06",
                                     "periodName": "June",
-                                    "value": "178.0",
+                                    "value": "233.504",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2001",
+                                    "year": "2013",
                                     "period": "M05",
                                     "periodName": "May",
-                                    "value": "177.7",
+                                    "value": "232.945",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2001",
+                                    "year": "2013",
                                     "period": "M04",
                                     "periodName": "April",
-                                    "value": "176.9",
+                                    "value": "232.531",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2001",
+                                    "year": "2013",
                                     "period": "M03",
                                     "periodName": "March",
-                                    "value": "176.2",
+                                    "value": "232.773",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2001",
+                                    "year": "2013",
                                     "period": "M02",
                                     "periodName": "February",
-                                    "value": "175.8",
+                                    "value": "232.166",
                                     "footnotes": [
                                           {}
                                     ]
                               },
                               {
-                                    "year": "2001",
+                                    "year": "2013",
                                     "period": "M01",
                                     "periodName": "January",
-                                    "value": "175.1",
+                                    "value": "230.280",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2012",
+                                    "period": "M12",
+                                    "periodName": "December",
+                                    "value": "229.601",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2012",
+                                    "period": "M11",
+                                    "periodName": "November",
+                                    "value": "230.221",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2012",
+                                    "period": "M10",
+                                    "periodName": "October",
+                                    "value": "231.317",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2012",
+                                    "period": "M09",
+                                    "periodName": "September",
+                                    "value": "231.407",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2012",
+                                    "period": "M08",
+                                    "periodName": "August",
+                                    "value": "230.379",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2012",
+                                    "period": "M07",
+                                    "periodName": "July",
+                                    "value": "229.104",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2012",
+                                    "period": "M06",
+                                    "periodName": "June",
+                                    "value": "229.478",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2012",
+                                    "period": "M05",
+                                    "periodName": "May",
+                                    "value": "229.815",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2012",
+                                    "period": "M04",
+                                    "periodName": "April",
+                                    "value": "230.085",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2012",
+                                    "period": "M03",
+                                    "periodName": "March",
+                                    "value": "229.392",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2012",
+                                    "period": "M02",
+                                    "periodName": "February",
+                                    "value": "227.663",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2012",
+                                    "period": "M01",
+                                    "periodName": "January",
+                                    "value": "226.665",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2011",
+                                    "period": "M12",
+                                    "periodName": "December",
+                                    "value": "225.672",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2011",
+                                    "period": "M11",
+                                    "periodName": "November",
+                                    "value": "226.230",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2011",
+                                    "period": "M10",
+                                    "periodName": "October",
+                                    "value": "226.421",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2011",
+                                    "period": "M09",
+                                    "periodName": "September",
+                                    "value": "226.889",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2011",
+                                    "period": "M08",
+                                    "periodName": "August",
+                                    "value": "226.545",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2011",
+                                    "period": "M07",
+                                    "periodName": "July",
+                                    "value": "225.922",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2011",
+                                    "period": "M06",
+                                    "periodName": "June",
+                                    "value": "225.722",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2011",
+                                    "period": "M05",
+                                    "periodName": "May",
+                                    "value": "225.964",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2011",
+                                    "period": "M04",
+                                    "periodName": "April",
+                                    "value": "224.906",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2011",
+                                    "period": "M03",
+                                    "periodName": "March",
+                                    "value": "223.467",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2011",
+                                    "period": "M02",
+                                    "periodName": "February",
+                                    "value": "221.309",
+                                    "footnotes": [
+                                          {}
+                                    ]
+                              },
+                              {
+                                    "year": "2011",
+                                    "period": "M01",
+                                    "periodName": "January",
+                                    "value": "220.223",
                                     "footnotes": [
                                           {}
                                     ]

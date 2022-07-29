@@ -11,11 +11,11 @@ print("Program started...")
 
 parameters1 = json.dumps({"registrationkey":"64ea89c953c14b98a90b9beca800748a", "seriesid":['LNS14000000'], "startyear":"1994", "endyear":"2000", "calculations":"false"})
 parameters2 = json.dumps({"registrationkey":"64ea89c953c14b98a90b9beca800748a", "seriesid":['LNS14000000'], "startyear":"2001", "endyear":"2010", "calculations":"false"})
-parameters3 = json.dumps({"registrationkey":"64ea89c953c14b98a90b9beca800748a", "seriesid":['LNS14000000'], "startyear":"2011", "endyear":"2022", "calculations":"false"})
+parameters3 = json.dumps({"registrationkey":"64ea89c953c14b98a90b9beca800748a", "seriesid":['LNS14000000'], "startyear":"2011", "endyear":"2021", "calculations":"false"})
 
 # Call the bls data api class with the parameters and the name of the data output file.
 c_bls_data_api(parameters1, './RAW DATA/% Unemployment/Data File/unemp_data_report_1994_to_2000.json')
 c_bls_data_api(parameters2, './RAW DATA/% Unemployment/Data File/unemp_data_report_2001_to_2010.json')
-c_bls_data_api(parameters2, './RAW DATA/% Unemployment/Data File/unemp_data_report_2011_to_2022.json')
+c_bls_data_api(parameters3, './RAW DATA/% Unemployment/Data File/unemp_data_report_2011_to_2022.json')
 
 print("Program completed...")
