@@ -10,7 +10,8 @@ of the best predictors of recession while CPI has been a reliable predictor of i
 be compared to other data that is on the dashboard. 
 
 How data is gathered: 
-For CPI and % Unemployment, I used the API that was available on the U.S. Bureau of Labor Statistics(www.bls.gov), for GDP and Yield Curve I used FRED source. 
+For CPI and % Unemployment, I used the API that was available on the U.S. Bureau of Labor Statistics(www.bls.gov), for GDP and Yield Curve I used FRED source. Data
+that I used for Diesel Fuel Price Index was accessible through EIA Web Data Connector source at https://wdc.portals.interworks.com/eia_20/ .
 
 Data Organization:
 I tried to organize the data as neatly as possible. RAW DATA folders contain raw API pulls that are either in .csv or .json formats. CLEAN DATA contains .csv or .json
