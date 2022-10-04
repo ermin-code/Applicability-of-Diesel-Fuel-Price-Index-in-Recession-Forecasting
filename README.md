@@ -42,11 +42,11 @@ CPI (Consumer Price Index) API Data:
 
 https://api.bls.gov/publicAPI/v2/timeseries/data/
 
-GDP (Gross Domestic Product) Data:
+GDP (Gross Domestic Product) API Data:
 
 https://fred.stlouisfed.org/
 
-Diesel Fuel Price Index Data:
+Diesel Fuel Price Index API  Data:
 
 https://www.eia.gov/
 
