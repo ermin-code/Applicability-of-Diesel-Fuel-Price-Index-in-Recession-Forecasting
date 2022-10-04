@@ -32,6 +32,25 @@ The Tableau workbook file consists of Diesel Fuel Index vs. Time, Consumer Price
 Domestic Product vs Time, Diesel Fuel Price Index vs CPI as vs 10-Year Market Yield Curve in 2-dimensional graphs over time. It also includes a Tableau dashboard that consists
 of % Unemployment vs Time, GDP vs Time as well as Diesel Fuel Price Index vs CPI and vs 10-Year Yield Market Curve.
 
+Data Sources:
+
+Percent Unemployment API Data:
+
+https://api.bls.gov/publicAPI/v2/timeseries/data/
+
+CPI (Consumer Price Index) API Data:
+
+https://api.bls.gov/publicAPI/v2/timeseries/data/
+
+GDP (Gross Domestic Product) Data:
+
+https://fred.stlouisfed.org/
+
+Diesel Fuel Price Index Data:
+
+https://www.eia.gov/
+
+
 Thank you for reviewing my project. If you have any specific questions about it, please do not hesitate to contact me on my email address at erminky@gmail.com
 
 
