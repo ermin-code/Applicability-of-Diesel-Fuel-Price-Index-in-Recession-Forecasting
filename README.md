@@ -36,11 +36,11 @@ Data Sources:
 
 Percent Unemployment API Data:
 
-https://api.bls.gov/publicAPI/v2/timeseries/data/
+https://api.bls.gov/
 
 CPI (Consumer Price Index) API Data:
 
-https://api.bls.gov/publicAPI/v2/timeseries/data/
+https://api.bls.gov/
 
 GDP (Gross Domestic Product) API Data:
 
