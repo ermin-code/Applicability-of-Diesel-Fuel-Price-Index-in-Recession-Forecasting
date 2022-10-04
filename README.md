@@ -51,6 +51,12 @@ Diesel Fuel Price Index API  Data:
 https://www.eia.gov/
 
 
+Link to this Tableau dashboard on Tableau Public Server:
+
+https://public.tableau.com/views/ApplicabilityofDieselFuelPriceIndexinRecessionForecasting/ApplicabilityofDieselFuelPriceIndexinRecessionForecasting?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
+
 Thank you for reviewing my project. If you have any specific questions about it, please do not hesitate to contact me on my email address at erminky@gmail.com
 
 
